@@ -40,9 +40,9 @@ h2{
     font-size: 50px;
     border-radius: 10px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
-    box-shadow: 13px 14px 36px -8px rgba(0,0,0,0.82);
-    -webkit-box-shadow: 13px 14px 36px -8px rgba(0,0,0,0.82);
-    -moz-box-shadow: 13px 14px 36px -8px rgba(0,0,0,0.82);
+    box-shadow: 13px 14px 36px -8px rgba(0,0,0,0.82) inset;
+-webkit-box-shadow: 13px 14px 36px -8px rgba(0,0,0,0.82) inset;
+-moz-box-shadow: 13px 14px 36px -8px rgba(0,0,0,0.82) inset;
 }
 .clock .text{
     height: 30px;
